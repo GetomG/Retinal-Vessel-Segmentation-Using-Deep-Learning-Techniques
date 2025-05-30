@@ -28,9 +28,9 @@ We used the following metrics to evaluate model performance:
 - **SAM (Segment Anything Model)**: A large-scale foundation model originally trained for general-purpose segmentation, adapted here for medical imaging.
 
 ---
+### ✅ Sample Segmentation Result
 
-
-
+![](https://github.com/GetomG/Retinal-Vessel-Segmentation-Using-Deep-Learning-Techniques/raw/main/Images/Screenshot%202025-05-30%20at%2015.34.02.png)
 
 
 ---
