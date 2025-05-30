@@ -115,7 +115,7 @@ def evaluate(model, loader, criterion, device):
     return epoch_loss / n, iou_score / n, dice_score / n, f1 / n
 
 # Initialize wandb
-api_key = '471257f8658cc55c4ec33930066c1c6d1f101821'
+api_key = 'secret'
 project_name = 'swin-unet-segmentation'
 dataset = 'DRIVE - Digital Retinal Images for Vessel Extraction'
 architecture = 'Swin-Unet'
